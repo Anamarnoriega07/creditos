@@ -12,4 +12,4 @@ https://creditos-app-an.herokuapp.com/
 
 #### Postman
 
-https://www.getpostman.com/collections/fbb763fed8a6baa44edb
+https://documenter.getpostman.com/view/16169904/UVC5DSUK
